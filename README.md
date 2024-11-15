@@ -24,7 +24,7 @@ Personalized candidate matching based on skills and requirements.
 ![image](https://github.com/user-attachments/assets/0ac0c324-0b0c-4c90-89d2-43b0e8e3074c)
 ![image](https://github.com/user-attachments/assets/fb483009-c43d-4ac3-921f-9b895da8e29d)
 ![image](https://github.com/user-attachments/assets/f25765d9-b4a1-4520-9278-8a187f479931)
-![image](https://github.com/user-attachments/assets/f5270d77-da73-452c-87e0-4e3491768395)
+
 
 
 
