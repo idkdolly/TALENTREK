@@ -1,0 +1,165 @@
+.header {
+    background-color: #201E43;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.header .logo {
+    width: 150px;
+    margin-bottom: 10px;
+}
+
+.header .nav-links {
+    list-style-type: none;
+}
+
+.header .nav-links li {
+    display: inline;
+    margin: 0 10px;
+}
+
+.header .nav-links a {
+    color: white;
+    text-decoration: none;
+}
+
+.signup-btn {
+    background-color: #ff0000;
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.home {
+    background-color:#EEEEEE ;
+    text-align: center;
+    padding: 60px 0;
+}
+
+.home h1 {
+    color: peach;
+    font-size: 2em;
+}
+
+.home p {
+    margin-top: 20px;
+    color: peach;
+}
+
+.cta-btn {
+    background-color: #4a00e0;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 20px;
+    display: inline-block;
+}
+.about {
+    background-color: peach;
+    color: #508C9B;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.about h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.about p {
+    color: ;
+    max-width: 600px;
+    margin: auto;
+    line-height: 1.6;
+}
+.services {
+    background-color: #134B70;
+    color: #333;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.services h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.services ul {
+    list-style-type: none;
+    padding-left: 0;
+    max-width: 600px;
+    margin: auto;
+    line-height: 1.8;
+    color: #555;
+}
+
+.services ul li {
+    margin: 10px 0;
+}
+.signup {
+    background-color: #f8f9fa;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.signup h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.signup form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 400px;
+    margin: auto;
+}
+
+.signup form input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.signup form button {
+    background-color: #4a00e0;
+    color: red;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.footer p {
+    margin-bottom: 5px;
+}
+
+.footer a {
+    color: red;
+    text-decoration: none;
+    margin: 0 10px;
+}
+@media (max-width: 768px) {
+    .header .nav-links li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    .signup form {
+        width: 100%;
+    }
+
+    .container {
+        width: 95%;
+    }
+}
